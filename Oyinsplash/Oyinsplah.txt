@@ -1,0 +1,5 @@
+Name: Oyinkansola Alabi
+Email: jessyinks14@gmail.com
+Slack Username: Oyinsplash
+Tracks: Back End, Front End, Design, Mobile
+Courses: figma, flutter, html-cs-js,java, kotlin, nodejs, php, python
